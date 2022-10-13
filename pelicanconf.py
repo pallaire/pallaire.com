@@ -29,3 +29,5 @@ DEFAULT_PAGINATION = 16
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = 'themes/grid_theme'
