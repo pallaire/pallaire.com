@@ -8,6 +8,8 @@ TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = 'en'
 
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -26,6 +28,8 @@ SOCIAL = (('YouTube', 'https://www.youtube.com/channel/UCNqJR9etHn6xOyU505DiN_A'
           ('Instagram', 'https://www.instagram.com/pallaire/'),)
 
 DEFAULT_PAGINATION = 16
+
+SUMMARY_MAX_LENGTH = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

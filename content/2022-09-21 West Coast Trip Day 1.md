@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 1
 Date: 2022-09-21 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-1.jpeg
 
 We are embarking in a new road trip, the second one for Bloom, our self built Sprinter van. The goal of the trip is to get to Vacouver BC to meet with my wife's dad, and to meet with my childhood friend, Greg. This is going to take a a couple of weeks for the round trip.
 

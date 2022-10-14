@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 10
 Date: 2022-09-30 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-62.jpeg
 
 We drove around Mount Rainier, we got some great pics but we were surprised that there were not any scenic pictures taking spots anywhere. 
 

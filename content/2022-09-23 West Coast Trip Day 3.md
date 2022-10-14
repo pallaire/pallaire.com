@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 3
 Date: 2022-09-23 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-11.jpeg
 
 We chose to stay one more night at the campground in Anchor Bay. Our previous spot was reserved so we had to move to an even better one. Perfect on the water ❤️
 

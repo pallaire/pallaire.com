@@ -1,1 +1,7 @@
-{% if article.tags %}<p>tags: {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a> {% endfor %}</p>{% endif %}
+{% if article.tags %}
+	{% for tag in article.tags %}
+		<div class="tag-block">
+			<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a> 
+		</div>
+	{% endfor %}
+{% endif %}

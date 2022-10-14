@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 5
 Date: 2022-09-25 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-25.jpeg
 
 Early this morning we did a stop at a beach for the dogs. This beach was populated by crabs. 
 

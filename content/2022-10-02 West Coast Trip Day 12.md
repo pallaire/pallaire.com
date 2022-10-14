@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 12
 Date: 2022-10-02 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-75.jpeg
 
 More talking, some coffee, a couple of poutines. 
 

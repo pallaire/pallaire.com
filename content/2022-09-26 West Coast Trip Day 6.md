@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 6
 Date: 2022-09-26 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-35.jpeg
 
 We played in a dangerous beach in the morning. Where they warn about the water being dangerous with survival unlikely. We stayed away from the water. 
 

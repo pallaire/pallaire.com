@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 2
 Date: 2022-09-22 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-4.jpeg
 
 Today, we drove around the Bay Area to get to the coast. We drove up to Gualala, a place where we almost bought a house. It's really a nowhere on the coast. About 2h north of SF. 
 

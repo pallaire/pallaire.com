@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 11
 Date: 2022-10-01 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-68.jpeg
 
 Slow morning at the campground. We tried to reach the beach but it was too far out. 
 

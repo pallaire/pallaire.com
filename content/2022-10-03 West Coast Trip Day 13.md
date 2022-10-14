@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 13
 Date: 2022-10-03 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-76.jpeg
 
 We are on our way back, focus on getting there. Today 484 miles, 7:36 of driving 
 

@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 7
 Date: 2022-09-27 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-48.jpeg
 
 Driving from Banddon to Beverly Beach. 
 

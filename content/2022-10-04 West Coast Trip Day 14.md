@@ -2,6 +2,7 @@ Title: 2022 West Coast Trip Day 14
 Date: 2022-10-04 20:00
 Category: Travel
 Tags: travel, vanlife, westcoast2022
+Image: images/2022/westcoast2022-77.jpeg
 
 575 miles today. 
 
