@@ -1,6 +1,6 @@
 AUTHOR = 'Patrick Allaire'
 SITENAME = 'PALLAIRE'
-SITEURL = ''
+SITEURL = 'https://pallaire.com'
 
 PATH = 'content'
 
@@ -11,6 +11,8 @@ DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
 # Feed generation is usually not desired when developing
+FEED_DOMAIN = SITEURL
+FEED_ATOM = 'feeds/atom.xml'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
